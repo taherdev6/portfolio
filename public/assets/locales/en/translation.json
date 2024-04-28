@@ -1,0 +1,24 @@
+{
+  "home": "home",
+  "about": "about",
+  "skills": "skills",
+  "projects": "projects",
+
+  "hero_heading": "I'm Taher",
+  "hero_subheading": "MERN web developer",
+  "hero_text": "Turning ideas into interactive reality",
+
+  "skills_heading": "Tech Stack",
+  "skills_html_css_text": "Highly skilled in HTML & CSS, adeptly crafting visually appealing and responsive websites for optimal user experiences.",
+  "skills_js_text": "Expertise in JavaScript, building interactive and dynamic web applications with a focus on seamless user interactions and functionality",
+  "skills_react_text": "Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.",
+  "skills_nodejs_text": "Well versed in NodeJS, Express and working with an external database such as MongoDB.",
+
+  "about_heading": "About Me",
+  "about_text": "Self taught MERN web developer starting out a professional career and looking for a new experience. Always willing to learn and face challenges.",
+
+  "projects_heading": "Web Creations",
+  "jobify_text": "Save and view all your job applications in a single platform with a multitude of features.",
+  "clickTheCountry_text": "Test your geography skills in this game of countries (and more).",
+  "carpetHome_text": "E-commerce website with all the necessary features for a swift and simple experience."
+}
