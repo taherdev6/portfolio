@@ -48,8 +48,8 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://clickthecountry.netlify.app/assets/logo2-a3df0456.svg",
-    url: "https://clickthecountry.netlify.app/",
+    img: "https://clickthecountry.onrender.com/assets/logo3-bb2e56eb.svg",
+    url: "https://clickthecountry.onrender.com/",
     github: "https://github.com/taherdev6/clickthecountry",
     title: "ClickTheCountry",
     text: "clickTheCountry_text",
